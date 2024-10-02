@@ -1,6 +1,6 @@
 # app
 
-A new Flutter project.
+Instagram Clone with Flutter.
 
 ## Getting Started
 
